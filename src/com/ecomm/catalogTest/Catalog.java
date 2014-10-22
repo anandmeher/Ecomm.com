@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 
 import com.ecomm.businessLib.LoginLib;
 import com.ecomm.genericLib.Driver;
-import com.ecomm.reprotLib.MyLog;
+import com.ecomm.reportLib.MyLog;
 
 public class Catalog {
 	

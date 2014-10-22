@@ -4,7 +4,7 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.ecomm.genericLib.Driver;
 import com.ecomm.pageFactory.LoginPageLib;
-import com.ecomm.reprotLib.MyLog;
+import com.ecomm.reportLib.MyLog;
 
 public class LoginLib {
 	

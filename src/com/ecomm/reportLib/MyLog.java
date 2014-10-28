@@ -1,4 +1,4 @@
-package com.ecomm.reprotLib;
+package com.ecomm.reportLib;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.xml.DOMConfigurator;
